@@ -1,0 +1,3 @@
+Decision || Gpa || Fletch || Typo || Income || SAT  || Ai Score
+Accepted||Great||  Great ||Great || Great   ||Great||
+               ||     72||      -19||       -1||        10||     14||  76

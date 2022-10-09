@@ -1,0 +1,3 @@
+Decision || Gpa || Fletch || Typo || Income || SAT  || Ai Score
+Waiting  ||Poor ||  Great ||Great ||  Poor   ||Poor ||
+Place:   2||      20||       -6||        0||          0||      4||  18
